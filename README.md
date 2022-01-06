@@ -24,7 +24,7 @@ Em Angola, o órgao responsavél para a emissão de passaporte ordinário é o S
 - Formulário, capa e ficha devidamente preenchidas (normalmente adquiridas no posto de emissão do passaporte);
 - Declaração da situação militar regularizada (para cidadãos do sexo masculino, dos 18 aos 30 anos de idade);
 
-NOTA: Para obtenção de Passaporte Ordinário à favir de menores de 18 anos, para além dos requisitos acima mencionados, deve ainda se acompanhado do Termo de Responsabilidade de quem exerce o poder partenal, tutela ou representação legal, acompanhado da fotocópia dos respectivos Bilhetes de Identidade.
+NOTA: Para obtenção de Passaporte Ordinário à favor de menores de 18 anos, para além dos requisitos acima mencionados, deve ainda ser acompanhado do Termo de Responsabilidade de quem exerce o poder paternal, tutela ou representação legal, acompanhado da fotocópia dos respectivos Bilhetes de Identidade.
 
 ### **Postos de Emissão do Passaporte: SME**
 
