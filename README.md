@@ -13,7 +13,7 @@ registos de entrada e saída.
 Exitem diferentes tipos de Passaporte emitidos pelas autoridades Angolanas: Passaporte Ordinário, Passaporte de Serviço e
 Passaporte Diplomático. Nesta página, sempre que nos referirmos ao passaporte, estaremos a referir-nos os passaporte ordinário.
 
-Em Angola, o órgao responsavél para a emissão de passaporte ordinário é o Serviço de Migração e Estrangeiros (SME).
+Em Angola, o órgão responsavél para a emissão do passaporte ordinário é o Serviço de Migração e Estrangeiros (SME).
 
 ### **Requisitos para emissão do Passaporte Ordinário**
 
@@ -35,7 +35,7 @@ _Rua Nicolau Castelo Branco<br>
 Vila Clotilde,<br>
 Próximo à liga Africana_
 
-**SME - Mainga:**<br>
+**SME - Maianga:**<br>
 _Rua Dr. José Pereira do Nascimento, nº 15<br>
 Distrito da Maianga<br>
 Município de Luanda_
