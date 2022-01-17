@@ -3,7 +3,6 @@
 Um guia para um processo de emigração simplificado.
 
 ## Introdução
-
 Cada vez mais Angolanos alimentam o desejo de emigrar. Esta nunca foi uma decisão fácil e se mal planejada pode resultar em perdas de tempo e dinheiro significativas.
 
 Este guia é para aqueles que desejam sair de Angola e emigrar para o estrangeiro mas não sabem por onde começar, para aqueles que nunca viajaram, não têm conhecimento dos documentos necessários ou noção do processo burocratico que se trilha até a emigração.
@@ -23,6 +22,8 @@ O que você deseja alcançar com a sua emigração?
 Existem **N** factores e você precisa conhecer os seus.
 
 ### Escolha o país
+<details>
+  <summary>Clique para expandir</summary>
 
 Escolher o país fica mais fácil quando temos o objectivo da nossa emigração definido.
 
@@ -31,7 +32,8 @@ Vários factores devem ser considerados na escolha do país, como o **clima, cul
 Faça uma investigação sobre os possíveis países que gostaria de viver, compare as vantagens e desvantagens, leve o tempo que precisar para entender os prós e contra de cada um e só depois de ter plena certeza de que encontrou um páis que valha a pena tentar, tente!
 
 > Dica: nem todo mundo gosta de receber amigos do estrangeiro e colocar em casa. Não só quebra a privacidade como aumenta nos gasto. Se pretende residir na casa daquele seu amigo que vive no exterior, pelo menos se prepare para ajudar nos custos e procure o seu próprio espaço o mais breve possível...
-
+</details>
+  
 ## Documentos gerais
 
 Indepentemente do país que desejar viajar, existem alguns documentos que são indispensáveis para que seja permitida a sua saída do país, estes documentos são:
@@ -39,6 +41,7 @@ Indepentemente do país que desejar viajar, existem alguns documentos que são i
 - [Bilhete de Identidade](#bilhete-de-identidade)
 - [Passaporte](#passaporte)
 - [Certificado internacional de vacinas](#cartao-internacional-de-vacinas)
+- [Cartão de Vacina contra Febre Amarela](#cartao-de-vacina-contra-febre-amarela)
 - [Certificado nacional de vacina **Covid 19**](#certificado-nacional-de-vacinas-covid-19).
 
 ### Bilhete de identidade
@@ -46,7 +49,10 @@ Indepentemente do país que desejar viajar, existem alguns documentos que são i
 O **Bilhete de Identidade** é o bilhete de identificação nacional dos Angolanos. Ele contém o nome, data de nascimento, data e local da emissão, validade, filiação, foto, estado civil, impressão digital, assinatura e o endereço do cidadão. [Mais detalhes...](https://pt.wikipedia.org/wiki/Bilhete_de_identidade#Angola)
 
 ## Passaporte
-
+<details>
+  
+  <summary>Clique para expandir</summary>
+  
 O passaporte é um documento de viagem pessoal e intransferível, que identifica o viajante a nível internacional. É um documento indespensável a qualquer cidadão que queira viajar para fora de Angola. Além dos dados pessoais, no passaporte também são comummente registados os vistos, autorizações de entrada, registos de entrada e saída.
 
 Exitem diferentes tipos de Passaporte emitidos pelas autoridades Angolanas: Passaporte Ordinário, Passaporte de Serviço e Passaporte Diplomático. Nesta página, sempre que nos referirmos ao passaporte, estaremos a referir-nos ao passaporte ordinário.
@@ -89,6 +95,7 @@ Rua Dr. José Pereira do Nascimento, nº 15, Distrito da Maianga, Município de 
 **SME - Total:**
 Rua Rainha Nginga Mbandi, nº 262, Largo do ambiente, Torre TTA 1, Rês do Chão, Distrito da Maianga, Município de Luanda
 
+  </details>
 
 ### Processo de emigração para...
 
