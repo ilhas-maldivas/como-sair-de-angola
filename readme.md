@@ -89,4 +89,12 @@ Rua Dr. José Pereira do Nascimento, nº 15, Distrito da Maianga, Município de 
 **SME - Total:**
 Rua Rainha Nginga Mbandi, nº 262, Largo do ambiente, Torre TTA 1, Rês do Chão, Distrito da Maianga, Município de Luanda
 
+
+### Processo de emigração para...
+
+Encontre abaixo informações sobre o processo de emigração especifico para cada país.
+
+- [Portugal](portugal/readme.md)
+- [República Checa](/czech_republic/Readme.md)
+
 > Nota: Lista em atualização...
