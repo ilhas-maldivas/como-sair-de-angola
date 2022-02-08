@@ -74,6 +74,8 @@ A emissão do passaporte tem um custo de 30.500kz que devem ser obrigatoriamente
 
 ### Observações:
 
+Se já é detentor de um passaporte, para evitar constrangimentos futuros, recomendamos que o prazo de validade do seu passaporte seja de no mínimo 1 ano.
+
 De acordo ao [Decreto Presidencial n.º 189/20, de 23 de Julho](https://simplifica.gov.ao/theme/assets/Simplifica_Decreto.pdf) os documentos 2 e 6 deixam de ser necessários. Mas ainda existem funcionários públicos que insistem em não obedecer o decreto e exigem estes documentos para dificultar a obtenção do passaporte.
 
 Ponto 4: As fotografias solicitadas não são as habituais fotos tipo passe que podem ser feitas em qualquer casa de fotos (cónicas) do páis. Estas especificação são diferentes e obrigatórias e se não forem cumpridas muito provavelmente o SME irá recusar recebê-las. Antes de tirar a foto, explique ao fotografo a finalidade da fotografia, as dimensões e garanta que ele cumpra com o seu pedido.
