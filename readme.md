@@ -95,11 +95,13 @@ Rua Rainha Nginga Mbandi, nº 262, Largo do ambiente, Torre TTA 1, Rês do Chão
 
 </details>
 
-### Processo de emigração para...
+## Processo de emigração
 
-Encontre abaixo informações sobre o processo de emigração especifico para cada país.
+Com base na experiência de várias pessoas, criamos esta lista com links onde poderá encontrar conteúdo útil específico ao processo de emigração dos países listados. Se você já passou por um processo de emigração e gostaria de contribuir na nossa lista de países um **Pull Request** seu seria muito bem-vindo.
+
+Abaixo segue a lista de países com conteúdo 
 
 - [Portugal](portugal/readme.md)
-- [República Checa](/czech_republic/Readme.md)
+- [República Checa](/czech_republic/readme.md)
 
 > Nota: Lista em atualização...
