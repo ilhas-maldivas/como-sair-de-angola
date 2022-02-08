@@ -9,7 +9,7 @@ Este guia é para aqueles que desejam sair de Angola e emigrar para o estrangeir
 
 ## Por onde começar
 
-Antes de sair do país, você precisa ter um objectivo e um plano. Não cometa o erro de muitos que saiem de cabeça sem planejamento e acabam deportados.
+Antes de sair do país, você precisa ter um objectivo e um plano para alcançá-lo. Procure não cometer o erro de muitos que saiem de cabeça sem planejamento.
 
 ### Defina os seus objectivos
 
