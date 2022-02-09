@@ -9,7 +9,7 @@ Este guia é para aqueles que desejam sair de Angola e emigrar para o estrangeir
 
 ## Por onde começar
 
-Antes de sair do país, você precisa ter um objectivo e um plano para alcançá-lo. Procure não cometer o erro de muitos que saiem de cabeça sem planejamento.
+Antes de sair do país, você precisa ter um objectivo e um plano para alcançá-lo. Procure não cometer o erro de muitos que saem de cabeça sem planejamento.
 
 ### Defina os seus objectivos
 
@@ -27,7 +27,7 @@ Escolher o país fica mais fácil quando temos o objectivo da emigração bem de
 
 Vários factores devem ser considerados na escolha do país, como o **clima, cultura, língua, leis, custo de vida e se você conhece algum residente no país**.
 
-Faça uma investigação sobre os possíveis países onde gostaria de viver, compare as vantagens e desvantagens, leve o tempo que precisar para entender os prós e contra de cada um e assim que encontrar o páis que mais se adequa ao seus objetivos comece a correr atrás dos requisitos para viver legalmente nesse país!
+Faça uma investigação sobre os possíveis países onde gostaria de viver, compare as vantagens e desvantagens, leve o tempo que precisar para entender os prós e contra de cada um, e assim que encontrar o país que mais se adequa ao seus objetivos, comece a correr atrás dos requisitos para viver legalmente nesse país!
 
 ## Documentos gerais
 
@@ -97,9 +97,9 @@ Rua Rainha Nginga Mbandi, nº 262, Largo do ambiente, Torre TTA 1, Rês do Chão
 
 ## Processo de emigração
 
-Com base na experiência de várias pessoas, criamos esta lista com links onde poderá encontrar conteúdo útil específico ao processo de emigração dos países listados. Se você já passou por um processo de emigração e gostaria de contribuir na nossa lista de países um **Pull Request** seu seria muito bem-vindo.
+om base na experiência de várias pessoas, criamos esta lista com links onde poderá encontrar conteúdo útil específico ao processo de emigração dos países listados. Se você já passou por um processo de emigração e gostaria de contribuir na nossa lista de países, um **Pull Request** seu será muito bem-vindo.
 
-Abaixo segue a lista de países com conteúdo 
+Abaixo segue a lista de países com o seu devido conteúdo informativo:
 
 - [Portugal](portugal/readme.md)
 - [República Checa](/czech_republic/readme.md)
