@@ -3,6 +3,7 @@
 Um guia para um processo de emigração simplificado.
 
 ## Introdução
+
 Cada vez mais Angolanos alimentam o desejo de emigrar. Esta nunca foi uma decisão fácil e se mal planejada pode resultar em perdas de tempo e dinheiro significativas.
 
 Este guia é para aqueles que desejam sair de Angola e emigrar para o estrangeiro mas não sabem por onde começar, para aqueles que nunca viajaram, não têm conhecimento dos documentos necessários ou noção do processo burocratico que se trilha até a emigração.
@@ -22,12 +23,22 @@ O que você deseja alcançar com a sua emigração?
 Existem **N** factores e você precisa conhecer os seus.
 
 ### Escolha o país
+como-imigrar-holanda
+
+<details>
+  <summary>Clique para expandir</summary>
+
 
 Escolher o país fica mais fácil quando temos o objectivo da emigração bem definido.
 
 Vários factores devem ser considerados na escolha do país, como o **clima, cultura, língua, leis, custo de vida e se você conhece algum residente no país**.
 
 Faça uma investigação sobre os possíveis países onde gostaria de viver, compare as vantagens e desvantagens, leve o tempo que precisar para entender os prós e contra de cada um, e assim que encontrar o país que mais se adequa ao seus objetivos, comece a correr atrás dos requisitos para viver legalmente nesse país!
+
+como-imigrar-holanda
+> Dica: nem todo mundo gosta de receber amigos do estrangeiro e colocar em casa. Não só quebra a privacidade como aumenta nos gasto. Se pretende residir na casa daquele seu amigo que vive no exterior, pelo menos se prepare para ajudar nos custos e procure o seu próprio espaço o mais breve possível...
+
+</details>
 
 ## Documentos gerais
 
@@ -44,6 +55,10 @@ Indepentemente do país que escolher emigrar, existem alguns documentos que são
 O **Bilhete de Identidade** é o bilhete de identificação nacional dos Angolanos. Ele contém o nome, data de nascimento, data e local da emissão, validade, filiação, foto, estado civil, impressão digital, assinatura e o endereço do cidadão. [Mais detalhes...](https://pt.wikipedia.org/wiki/Bilhete_de_identidade#Angola)
 
 ## Passaporte
+
+<details>
+  
+  <summary>Clique para expandir</summary>
 
 O passaporte é um documento de viagem pessoal e intransferível, que identifica o viajante a nível internacional. É um documento indespensável a qualquer cidadão que queira viajar para fora de Angola. Além dos dados pessoais, no passaporte também são comummente registados os vistos, autorizações de entrada, registos de entrada e saída.
 
@@ -102,6 +117,7 @@ om base na experiência de várias pessoas, criamos esta lista com links onde po
 Abaixo segue a lista de países com o seu devido conteúdo informativo:
 
 - [Portugal](portugal/readme.md)
-- [República Checa](/czech_republic/readme.md)
+- [República Checa](/czech_republic/Readme.md)
+- [Holanda](holanda/readme.md)
 
 > Nota: Lista em atualização...
