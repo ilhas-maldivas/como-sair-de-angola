@@ -62,10 +62,6 @@ O **Bilhete de Identidade** é o bilhete de identificação nacional dos Angolan
 
 O passaporte é um documento de viagem pessoal e intransferível, que identifica o viajante a nível internacional. É um documento indespensável a qualquer cidadão que queira viajar para fora de Angola. Além dos dados pessoais, no passaporte também são comummente registados os vistos, autorizações de entrada, registos de entrada e saída.
 
-<details>
-
-<summary>Ler mais...</summary>
-
 Exitem diferentes tipos de Passaporte emitidos pelas autoridades Angolanas: Passaporte Ordinário, Passaporte de Serviço e Passaporte Diplomático. Nesta página, sempre que nos referirmos ao passaporte, estaremos a referir-nos ao passaporte ordinário.
 
 Em Angola, o órgão responsavél pela emissão do passaporte ordinário é o **Serviço de Migração e Estrangeiros (SME)**, este orgão já foi considerado um dos òrgãos públicos mais corruptos do país entre 2019/2020.
