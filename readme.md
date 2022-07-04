@@ -23,11 +23,11 @@ O que você deseja alcançar com a sua emigração?
 Existem **N** factores e você precisa conhecer os seus.
 
 ### Escolha o país
+
 como-imigrar-holanda
 
 <details>
   <summary>Clique para expandir</summary>
-
 
 Escolher o país fica mais fácil quando temos o objectivo da emigração bem definido.
 
@@ -36,6 +36,7 @@ Vários factores devem ser considerados na escolha do país, como o **clima, cul
 Faça uma investigação sobre os possíveis países onde gostaria de viver, compare as vantagens e desvantagens, leve o tempo que precisar para entender os prós e contra de cada um, e assim que encontrar o país que mais se adequa ao seus objetivos, comece a correr atrás dos requisitos para viver legalmente nesse país!
 
 como-imigrar-holanda
+
 > Dica: nem todo mundo gosta de receber amigos do estrangeiro e colocar em casa. Não só quebra a privacidade como aumenta nos gasto. Se pretende residir na casa daquele seu amigo que vive no exterior, pelo menos se prepare para ajudar nos custos e procure o seu próprio espaço o mais breve possível...
 
 </details>
@@ -74,12 +75,13 @@ O passaporte tem sido nos últimos anos o documento mais difícil de se obter. P
 
 Os requisitos para tratar o passaporte são:
 
-1. Fotocópia do Bilhete de identidade válido;
-2. Declaração de serviço ou da escola, para os estudantes;
-3. Atestado de residência actualizado;
-4. Três fotografias coloridas tipo passe, dimensão 4x5cm, recentes;
-5. Formulário, capa e ficha devidamente preenchidas;
-6. Declaração da situação militar regularizada (para os cidadãos do sexo masculino dos 18 aos 30 anos de idade;
+1. Agendamento Online (para alguns postos)
+2. Fotocópia do Bilhete de identidade válido;
+3. Declaração de serviço ou da escola, para os estudantes;
+4. Atestado de residência actualizado;
+5. Três fotografias coloridas tipo passe, dimensão 4x5cm, recentes;
+6. Formulário, capa e ficha devidamente preenchidas;
+7. Declaração da situação militar regularizada (para os cidadãos do sexo masculino dos 18 aos 30 anos de idade;
 
 A emissão do passaporte tem um custo de 30.500kz que devem ser obrigatoriamente pagos via ATM. A entrada dos documentos deve-se acompanhar do talão de pagamento (comprovativo de pagamento).
 
@@ -94,6 +96,12 @@ Ponto 4: As fotografias solicitadas não são as habituais fotos tipo passe que 
 Para quem for tratar o passaporte no centro da cidade de Luanda, recomendamos que faça as fotos na [Foto Ngufo](https://www.google.com/maps/dir/-9.0238614,13.2778924/foto+ngufu/@-8.918586,13.1559595,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x1a51f251d93703dd:0x8b288be292faf31a!2m2!1d13.2314205!2d-8.8136049).Por ser um lugar reconhecido dentre os funcionários do SME (por fazer as fotos tal como eles querem) ele olham para a cobertura das fotos, vêm escrito "Foto Ngufo" e não dificultam.
 
 Para obtenção de Passaporte Ordinário para menores de 18 anos, além dos requisitos acima mencionados, deve-se ainda estar acompanhado do Termo de Responsabilidade de quem exerce o poder paternal, tutela ou representação legal, acompanhado da fotocópia dos respectivos Bilhetes de Identidade.
+
+### Agendamento
+
+Já é possível o agendamento para ida em alguns postos do SME em Luanda. O agendamento é feito online, atráves do link: [https://www.sme.gov.ao/agendamento-sme/](https://www.sme.gov.ao/agendamento-sme/). Para saber mais sobre o processo de agendamento, consulte o seguinte manual de instruções:
+
+[SME Manual de Agendamento Online](./files/sme-manual-de-agendamento-online.pdf)
 
 ### Postos de Emissão do Passaporte: SME
 
