@@ -120,7 +120,7 @@ Rua Rainha Nginga Mbandi, nº 262, Largo do ambiente, Torre TTA 1, Rês do Chão
 
 ## Processo de emigração
 
-om base na experiência de várias pessoas, criamos esta lista com links onde poderá encontrar conteúdo útil específico ao processo de emigração dos países listados. Se você já passou por um processo de emigração e gostaria de contribuir na nossa lista de países, um **Pull Request** seu será muito bem-vindo.
+Com base na experiência de várias pessoas, criamos esta lista com links onde poderá encontrar conteúdo útil específico ao processo de emigração dos países listados. Se você já passou por um processo de emigração e gostaria de contribuir na nossa lista de países, um **Pull Request** seu será muito bem-vindo.
 
 Abaixo segue a lista de países com o seu devido conteúdo informativo:
 
