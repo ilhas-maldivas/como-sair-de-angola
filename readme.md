@@ -125,7 +125,7 @@ Com base na experiência de várias pessoas, criamos esta lista com links onde p
 Abaixo segue a lista de países com o seu devido conteúdo informativo:
 
 - [Portugal](portugal/readme.md)
-- [República Checa](/czech_republic/Readme.md)
+- [República Checa](/czech_republic/readme.md)
 - [Holanda](holanda/readme.md)
 
 > Nota: Lista em atualização...
