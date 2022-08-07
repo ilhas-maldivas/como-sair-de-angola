@@ -63,7 +63,6 @@ O **Bilhete de Identidade** é o bilhete de identificação nacional dos Angolan
 
 O passaporte é um documento de viagem pessoal e intransferível, que identifica o viajante a nível internacional. É um documento indespensável a qualquer cidadão que queira viajar para fora de Angola. Além dos dados pessoais, no passaporte também são comummente registados os vistos, autorizações de entrada, registos de entrada e saída.
 
-<details>
 
 <summary>Ler mais...</summary>
 
